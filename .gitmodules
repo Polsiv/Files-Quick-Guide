@@ -1,0 +1,3 @@
+[submodule "Files-bug"]
+	path = Files-bug
+	url = https://github.com/Polsiv/Files-bug.git
